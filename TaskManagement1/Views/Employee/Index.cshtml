@@ -1,0 +1,53 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+
+@model IEnumerable<TaskManagement1.Models.EmployeeModel>
+
+@{
+    ViewData["Title"] = "Employee Information";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            @* <th>Id</th> *@
+            <th>Name</th>
+            <th>Contact</th>
+            <th>Picture</th>
+            <th>Action</th>
+            
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @* <td>@item.Id</td> *@
+                <td>@item.Name</td>
+                <td>@item.Contact</td>
+                <td>
+                    <img src="@Url.Content(item.PicturePath)" alt="@item.Name" style="width: 100px; height: 100px" />
+                </td>
+                @* <td>@item.</td> *@
+                
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

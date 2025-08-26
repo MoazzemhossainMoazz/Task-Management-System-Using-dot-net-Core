@@ -1,0 +1,86 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@model IEnumerable<TaskManagement1.Models.AssignTaskModel>
+
+@{
+    ViewData["Title"] = "Assign Task";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            @* <th>Id</th> *@
+            <th>Task Id</th>
+            <th>User Id</th>
+            <th>Submit Date</th>
+            <th>Due Date</th>
+            <th>Remark</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @* <td>@item.Id</td> *@
+                <td>@item.Taskid</td>
+                <td>@item.UserId</td>
+                <td>@item.SubmitDate </td>
+                <td>@item.DueDate</td>
+                <td>@item.Remark</td>
+                
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table> 
+
+
+
+
+
+
+
+
+@* 
+<form asp-action="Create" asp-controller="AssignTask" method="post">
+    <div class="form-group">
+        <label asp-for="Taskid">Task Id</label>
+        <input type="text" asp-for="Taskid" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label asp-for="UserId">User Id</label>
+        <textarea asp-for="UserId" class="form-control" required></textarea>
+    </div>
+    <div class="form-group">
+        <label asp-for="SubmitDate">Submit Date</label>
+        <textarea asp-for="SubmitDate" class="form-control" required></textarea>
+    </div>
+    <div class="form-group">
+        <label asp-for="DueDate">Due Date</label>
+        <textarea asp-for="DueDate" class="form-control" required></textarea>
+    </div>
+    <div class="form-group">
+        <label asp-for="Remark">Remark</label>
+        <textarea asp-for="Remark" class="form-control" ></textarea>
+    </div>
+   
+    
+    <button type="submit" class="btn btn-primary">Assign Task</button>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form> *@

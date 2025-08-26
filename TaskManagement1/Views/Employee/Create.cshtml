@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model TaskManagement1.Models.EmployeeModel
+
+<h1>Employee Information</h1>
+
+<form asp-action="Create" asp-controller="Employee" method="post" enctype="multipart/form-data">
+    <label for="Name">Employee Name</label>
+    <input type="text" id="Name" asp-for="Name" required /><br /><br />
+
+    <label for="contact">Contact</label>
+    <input type="text" id="contact" asp-for="Contact" required /><br /><br />
+
+    <label for="Picture">Picture</label><br />
+    <input type="file" id="Picture" name="Picture" required /><br /><br />
+
+    <input type="submit" class="btn btn-primary" value="Submit" />
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>

@@ -1,0 +1,30 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@model TaskManagement1.Models.AssignTaskModel
+
+<h1>Assign Tasks</h1>
+
+<form asp-action="Create" asp-controller="AssignTask" method="post" enctype="multipart/form-data">
+    <label for="taskId">Task Id</label>
+    <input type="number" id="taskId" asp-for="Taskid" required /><br /><br />
+
+    <label for="userId">User Id</label>
+    <input type="Number" id="userId" asp-for="UserId" required /><br /><br />
+
+    <label for="submitDate">Submit Data</label>
+    <input type="date" id="submitDate" asp-for="SubmitDate" /><br /><br />
+
+    <label for="dueDate">Due Date</label>
+    <input type="date" id="dueDate" asp-for="DueDate" /><br /><br />
+
+    <label for="remark">Remark</label>
+    <input type="text" id="remark" asp-for="Remark" /><br /><br />
+
+    <input type="submit" class="btn btn-primary" value="Submit" />
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>
