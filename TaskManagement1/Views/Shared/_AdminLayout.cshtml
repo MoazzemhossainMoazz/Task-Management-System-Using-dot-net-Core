@@ -270,7 +270,7 @@
                                 </li>
                             </ul> *@
                         </li>
-                        <li class="nav-item">
+                        @* <li class="nav-item">
                             <a href="pages/widgets.html" class="nav-link">
                                 <i class="nav-icon fas fa-th"></i>
                                 <p>
@@ -338,8 +338,8 @@
                                     </a>
                                 </li>
                             </ul>
-                        </li>
-                        <li class="nav-item">
+                        </li> *@
+                       @*  <li class="nav-item">
                             <a href="#" class="nav-link">
                                 <i class="nav-icon fas fa-chart-pie"></i>
                                 <p>
@@ -787,19 +787,79 @@
                                 <i class="nav-icon fas fa-file"></i>
                                 <p>Documentation</p>
                             </a>
-                        </li>
+                        </li> *@
                         <li class="nav-header">Pages</li>
                         <li class="nav-item">
                             <a href="#" class="nav-link">
                                 <i class="fas fa-circle nav-icon"></i>
-                                <p>Employee</p>
+                                <p>Admin</p>
                             </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">
+                                <i class="nav-icon fas fa-circle"></i>
+                                <p>
+                                    Task Settings
+                                    <i class="right fas fa-angle-left"></i>
+                                </p>
+                            </a>
+                            <ul class="nav nav-treeview">
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        <i class="far fa-circle nav-icon"></i>
+                                        <p>Employee Setting</p>
+                                    </a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="/Employee/Create" class="nav-link">
+                                        <i class="far fa-circle nav-icon"></i>
+                                        <p>Task Settings</p>
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="Employee/Index" class="nav-link">
+                                        <i class="far fa-circle nav-icon"></i>
+                                        <p>
+                                            Task Settings
+                                            <i class="right fas fa-angle-left"></i>
+                                        </p>
+                                    </a>
+                                    <ul class="nav nav-treeview">
+                                        <li class="nav-item">
+                                            <a href="#" class="nav-link">
+                                                <i class="far fa-dot-circle nav-icon"></i>
+                                                <p>Task List</p>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="#" class="nav-link">
+                                                <i class="far fa-dot-circle nav-icon"></i>
+                                                <p>Level 3</p>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="#" class="nav-link">
+                                                <i class="far fa-dot-circle nav-icon"></i>
+                                                <p>Level 3</p>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        <i class="far fa-circle nav-icon"></i>
+                                        <p>Level 2</p>
+                                    </a>
+                                </li>
+                            </ul>
                         </li>
                         <li class="nav-item">
                             <a asp-action="Index" asp-controller="Employee" class="nav-link">
                                 <i class="nav-icon fas fa-circle"></i>
                                 <p>
-                                    All Employee
+                                    Employee Settings
                                     <i class="right fas fa-angle-left"></i>
                                 </p>
                             </a>
@@ -811,10 +871,10 @@
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" class="nav-link">
+                                    <a href="Employee/Index" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>
-                                            Level 2
+                                            Employee List
                                             <i class="right fas fa-angle-left"></i>
                                         </p>
                                     </a>
@@ -847,6 +907,14 @@
                                 </li>
                             </ul>
                         </li>
+
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">
+                                <i class="fas fa-circle nav-icon"></i>
+                                <p>Level 1</p>
+                            </a>
+                        </li>
+
                         <li class="nav-item">
                             <a href="#" class="nav-link">
                                 <i class="fas fa-circle nav-icon"></i>
