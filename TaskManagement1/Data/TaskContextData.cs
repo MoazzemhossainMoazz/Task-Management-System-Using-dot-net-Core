@@ -15,6 +15,7 @@ namespace TaskManagement1.Data
         public DbSet<DepartmentModel> Departments { get; set; }
         public DbSet<SubjectModel> Subjects { get; set; }
         public DbSet<EmployeeModel> Employees { get; set; }
+        public object TaskInfo { get; set; }
 
         public static implicit operator TaskContextData(AssignTaskController v)
         {
