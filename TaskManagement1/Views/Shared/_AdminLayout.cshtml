@@ -823,7 +823,7 @@
                                         <p>Update Employee Info</p>
                                     </a>
                                 </li>
-                                <li class="nav-item">
+                                @* <li class="nav-item">
                                     <a href="Employee/Index" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>
@@ -846,7 +846,7 @@
                                         </li>
                                         
                                     </ul>
-                                </li>
+                                </li> *@
 
                                 
                             </ul>
@@ -908,6 +908,20 @@
                                 <i class="nav-icon far fa-circle text-info"></i>
                                 <p>Informational</p>
                             </a>
+                        </li>
+                        <li class="nav-item">
+                            @*  <a href="/ManageUsers/AssignRole" class="nav-link">
+                                        <i class="far fa-circle nav-icon"></i>
+                                        <p>
+                                           Sign out
+                                            <i class="right fas fa-angle-left"></i>
+                                        </p>
+                                    </a> *@
+                            @* <i class="far fa-circle nav-icon"></i> *@
+                            <form id="logoutForm" class="form-inline " style="background:Red" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Page("/Account/Login" , new { area = "Identity" })">
+                                <button id="logout" type="submit" class="nav-link btn btn-link text-white border-0">Logout</button>
+                            </form>
+                            @* <i class="right fas fa-angle-left"></i> *@
                         </li>
                     </ul>
                 </nav>

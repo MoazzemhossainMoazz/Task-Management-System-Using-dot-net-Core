@@ -16,6 +16,7 @@ namespace TaskManagement1
     options.UseSqlServer(builder.Configuration.GetConnectionString("MyDatabase")));
 
             var app = builder.Build();
+            
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
