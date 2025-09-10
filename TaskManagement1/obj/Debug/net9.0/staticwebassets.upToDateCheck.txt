@@ -4174,5 +4174,6 @@ wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\Picture\Asif.png
+wwwroot\Picture\qwer.png
 wwwroot\Picture\Rakib.png
 wwwroot\Picture\Tamim.png

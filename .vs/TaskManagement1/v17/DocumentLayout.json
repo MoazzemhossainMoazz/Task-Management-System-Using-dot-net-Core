@@ -214,8 +214,7 @@
               "RelativeToolTip": "TaskManagement1\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T12:07:04.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T12:07:04.521Z"
             },
             {
               "$type": "Document",
@@ -227,8 +226,7 @@
               "RelativeToolTip": "TaskManagement1\\Views\\ManageRole\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-01T10:49:44.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T10:49:44.366Z"
             },
             {
               "$type": "Document",
@@ -240,8 +238,7 @@
               "RelativeToolTip": "TaskManagement1\\Views\\ManageRole\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-01T10:15:31.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T10:15:31.244Z"
             },
             {
               "$type": "Document",
@@ -253,8 +250,7 @@
               "RelativeToolTip": "TaskManagement1\\Controllers\\ManageRoleController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T09:05:29.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T09:05:29.587Z"
             },
             {
               "$type": "Document",
@@ -264,7 +260,7 @@
               "RelativeDocumentMoniker": "TaskManagement1\\Controllers\\AuthenticUserController.cs",
               "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Controllers\\AuthenticUserController.cs",
               "RelativeToolTip": "TaskManagement1\\Controllers\\AuthenticUserController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwCYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-01T08:49:22.189Z",
               "EditorCaption": ""
@@ -279,8 +275,7 @@
               "RelativeToolTip": "TaskManagement1\\Views\\Employee\\Index.cshtml",
               "ViewState": "AgIAACMAAAAAAAAAAAAAACkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-01T08:45:20.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T08:45:20.217Z"
             },
             {
               "$type": "Document",
@@ -292,8 +287,7 @@
               "RelativeToolTip": "TaskManagement1\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-01T08:07:24.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T08:07:24.028Z"
             },
             {
               "$type": "Document",
@@ -305,8 +299,7 @@
               "RelativeToolTip": "TaskManagement1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABcAAAAAAAAAAAAAACwAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-31T07:22:29.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T07:22:29.809Z"
             },
             {
               "$type": "Document",
@@ -354,8 +347,7 @@
               "RelativeToolTip": "TaskManagement1\\Views\\Shared\\_AdminLayout.cshtml",
               "ViewState": "AgIAAJIDAAAAAAAAAAAAAJsDAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T03:02:34.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T03:02:34.577Z"
             }
           ]
         }

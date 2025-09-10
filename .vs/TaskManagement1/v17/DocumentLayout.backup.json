@@ -58,73 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 40,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Program.cs",
-              "RelativeDocumentMoniker": "TaskManagement1\\Program.cs",
-              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Program.cs",
-              "RelativeToolTip": "TaskManagement1\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T12:07:04.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Views\\ManageRole\\Index.cshtml",
-              "RelativeDocumentMoniker": "TaskManagement1\\Views\\ManageRole\\Index.cshtml",
-              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Views\\ManageRole\\Index.cshtml",
-              "RelativeToolTip": "TaskManagement1\\Views\\ManageRole\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-01T10:49:44.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Views\\ManageRole\\Create.cshtml",
-              "RelativeDocumentMoniker": "TaskManagement1\\Views\\ManageRole\\Create.cshtml",
-              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Views\\ManageRole\\Create.cshtml",
-              "RelativeToolTip": "TaskManagement1\\Views\\ManageRole\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-01T10:15:31.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ManageRoleController.cs",
-              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Controllers\\ManageRoleController.cs",
-              "RelativeDocumentMoniker": "TaskManagement1\\Controllers\\ManageRoleController.cs",
-              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Controllers\\ManageRoleController.cs",
-              "RelativeToolTip": "TaskManagement1\\Controllers\\ManageRoleController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T09:05:29.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthenticUserController.cs",
-              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Controllers\\AuthenticUserController.cs",
-              "RelativeDocumentMoniker": "TaskManagement1\\Controllers\\AuthenticUserController.cs",
-              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Controllers\\AuthenticUserController.cs",
-              "RelativeToolTip": "TaskManagement1\\Controllers\\AuthenticUserController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwCIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T08:49:22.189Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -271,6 +206,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagement1\\Program.cs",
+              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Program.cs",
+              "RelativeToolTip": "TaskManagement1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:07:04.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Views\\ManageRole\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskManagement1\\Views\\ManageRole\\Index.cshtml",
+              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Views\\ManageRole\\Index.cshtml",
+              "RelativeToolTip": "TaskManagement1\\Views\\ManageRole\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T10:49:44.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Views\\ManageRole\\Create.cshtml",
+              "RelativeDocumentMoniker": "TaskManagement1\\Views\\ManageRole\\Create.cshtml",
+              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Views\\ManageRole\\Create.cshtml",
+              "RelativeToolTip": "TaskManagement1\\Views\\ManageRole\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T10:15:31.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageRoleController.cs",
+              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Controllers\\ManageRoleController.cs",
+              "RelativeDocumentMoniker": "TaskManagement1\\Controllers\\ManageRoleController.cs",
+              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Controllers\\ManageRoleController.cs",
+              "RelativeToolTip": "TaskManagement1\\Controllers\\ManageRoleController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:05:29.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticUserController.cs",
+              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Controllers\\AuthenticUserController.cs",
+              "RelativeDocumentMoniker": "TaskManagement1\\Controllers\\AuthenticUserController.cs",
+              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Controllers\\AuthenticUserController.cs",
+              "RelativeToolTip": "TaskManagement1\\Controllers\\AuthenticUserController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T08:49:22.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Views\\Employee\\Index.cshtml",
@@ -279,8 +275,7 @@
               "RelativeToolTip": "TaskManagement1\\Views\\Employee\\Index.cshtml",
               "ViewState": "AgIAACMAAAAAAAAAAAAAACkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-01T08:45:20.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T08:45:20.217Z"
             },
             {
               "$type": "Document",
@@ -292,8 +287,7 @@
               "RelativeToolTip": "TaskManagement1\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-01T08:07:24.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T08:07:24.028Z"
             },
             {
               "$type": "Document",
@@ -305,8 +299,7 @@
               "RelativeToolTip": "TaskManagement1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABcAAAAAAAAAAAAAACwAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-31T07:22:29.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T07:22:29.809Z"
             },
             {
               "$type": "Document",
@@ -354,8 +347,7 @@
               "RelativeToolTip": "TaskManagement1\\Views\\Shared\\_AdminLayout.cshtml",
               "ViewState": "AgIAAJIDAAAAAAAAAAAAAJsDAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T03:02:34.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T03:02:34.577Z"
             }
           ]
         }
