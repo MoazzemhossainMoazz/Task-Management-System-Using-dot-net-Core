@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{23A12301-3522-4B4E-8461-C9AA83A3BF96}|TaskManagement1\\TaskManagement1.csproj|d:\\powersoftit\\myproject\\taskmanagement1\\taskmanagement1\\controllers\\assigntaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A12301-3522-4B4E-8461-C9AA83A3BF96}|TaskManagement1\\TaskManagement1.csproj|solutionrelative:taskmanagement1\\controllers\\assigntaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23A12301-3522-4B4E-8461-C9AA83A3BF96}|TaskManagement1\\TaskManagement1.csproj|d:\\powersoftit\\myproject\\taskmanagement1\\taskmanagement1\\controllers\\authenticusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23A12301-3522-4B4E-8461-C9AA83A3BF96}|TaskManagement1\\TaskManagement1.csproj|solutionrelative:taskmanagement1\\controllers\\authenticusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 40,
+          "SelectedChildIndex": 35,
           "Children": [
             {
               "$type": "Bookmark",
@@ -194,10 +198,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:1309131781:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
             },
             {
@@ -206,7 +206,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "AssignTaskController.cs",
+              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Controllers\\AssignTaskController.cs",
+              "RelativeDocumentMoniker": "TaskManagement1\\Controllers\\AssignTaskController.cs",
+              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Controllers\\AssignTaskController.cs",
+              "RelativeToolTip": "TaskManagement1\\Controllers\\AssignTaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T09:06:31.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Program.cs",
               "RelativeDocumentMoniker": "TaskManagement1\\Program.cs",
@@ -218,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Views\\ManageRole\\Index.cshtml",
               "RelativeDocumentMoniker": "TaskManagement1\\Views\\ManageRole\\Index.cshtml",
@@ -230,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Views\\ManageRole\\Create.cshtml",
               "RelativeDocumentMoniker": "TaskManagement1\\Views\\ManageRole\\Create.cshtml",
@@ -242,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ManageRoleController.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Controllers\\ManageRoleController.cs",
               "RelativeDocumentMoniker": "TaskManagement1\\Controllers\\ManageRoleController.cs",
@@ -254,20 +267,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthenticUserController.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Controllers\\AuthenticUserController.cs",
               "RelativeDocumentMoniker": "TaskManagement1\\Controllers\\AuthenticUserController.cs",
               "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Controllers\\AuthenticUserController.cs",
               "RelativeToolTip": "TaskManagement1\\Controllers\\AuthenticUserController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwCYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T08:49:22.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T08:49:22.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "TaskManagement1\\Views\\Employee\\Index.cshtml",
@@ -279,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "TaskManagement1\\Views\\Shared\\_LoginPartial.cshtml",
@@ -291,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TaskManagement1\\Views\\Shared\\_Layout.cshtml",
@@ -303,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "TaskContextData.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Data\\TaskContextData.cs",
               "RelativeDocumentMoniker": "TaskManagement1\\Data\\TaskContextData.cs",
@@ -315,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TaskInfoModel.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Models\\TaskInfoModel.cs",
               "RelativeDocumentMoniker": "TaskManagement1\\Models\\TaskInfoModel.cs",
@@ -327,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Views\\AuthenticUser\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "TaskManagement1\\Views\\AuthenticUser\\Dashboard.cshtml",
@@ -339,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "TaskManagement1\\Views\\Shared\\_AdminLayout.cshtml",
