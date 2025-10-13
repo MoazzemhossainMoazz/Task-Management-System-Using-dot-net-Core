@@ -13,7 +13,7 @@ namespace TaskManagement1
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddDbContext<TaskContextData>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("MyDatabase")));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("MyDatabase")));
 
             var app = builder.Build();
             

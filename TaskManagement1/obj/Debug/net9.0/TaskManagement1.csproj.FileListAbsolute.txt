@@ -2228,3 +2228,5 @@ D:\PowerSoftIT\MyProject\TaskManagement1\TaskManagement1\obj\Debug\net9.0\refint
 D:\PowerSoftIT\MyProject\TaskManagement1\TaskManagement1\obj\Debug\net9.0\TaskManagement1.pdb
 D:\PowerSoftIT\MyProject\TaskManagement1\TaskManagement1\obj\Debug\net9.0\TaskManagement1.genruntimeconfig.cache
 D:\PowerSoftIT\MyProject\TaskManagement1\TaskManagement1\obj\Debug\net9.0\ref\TaskManagement1.dll
+D:\PowerSoftIT\MyProject\TaskManagement1\TaskManagement1\bin\Debug\net9.0\Npgsql.dll
+D:\PowerSoftIT\MyProject\TaskManagement1\TaskManagement1\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

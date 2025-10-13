@@ -38106,6 +38106,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Picture\Asif.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>TaskManagement1</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TaskManagement1</BasePath>
+      <RelativePath>Picture/Asif.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>2rek3pzmtz</Fingerprint>
+      <Integrity>rh5H+epX8lshJp58ZcO7Q4CuspOQX6nulC6xSQs8n1U=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Picture\Asif.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Picture\Asif.png'))">
       <SourceType>Package</SourceType>
       <SourceId>TaskManagement1</SourceId>
@@ -38118,8 +38136,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ja9y09a35e</Fingerprint>
-      <Integrity>i4eGZ9r9dtY6kHSn18MVPOffRS5tHrZnQmNgrrPXEGs=</Integrity>
+      <Fingerprint>u6xuvy9plg</Fingerprint>
+      <Integrity>euXksBHgkLHchrc1dCiSQYxJ66Mblwa7IINAUae/Xh8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Picture\Asif.png'))</OriginalItemSpec>
@@ -38136,8 +38154,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yrnnx9gon2</Fingerprint>
-      <Integrity>Hl1UqJ4edO5EEn7HMOnKs8BDOdqHVFL2qkDpyS8t3lk=</Integrity>
+      <Fingerprint>qqf6r59o4g</Fingerprint>
+      <Integrity>MlTPbV6z9hxMEx7dEH3VyC7nUAau11o5tA0TEXlOY1U=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Picture\qwer.png'))</OriginalItemSpec>
@@ -38172,8 +38190,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qzoy31bzxo</Fingerprint>
-      <Integrity>+lVmsvwNXKSK125SxLXAFlRl9c7wZSWGD7rdChIgASM=</Integrity>
+      <Fingerprint>eseahblfmz</Fingerprint>
+      <Integrity>XjYkOtZDRYNKBcsbKnj8/CdpWQte2SHjutAPhapYv1c=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Picture\Tamim.png'))</OriginalItemSpec>

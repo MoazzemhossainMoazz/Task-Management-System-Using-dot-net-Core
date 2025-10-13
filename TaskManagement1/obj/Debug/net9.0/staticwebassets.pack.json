@@ -8221,6 +8221,10 @@
       "PackagePath": "staticwebassets\\Admin\\plugins\\uplot\\uPlot.min.css"
     },
     {
+      "Id": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\wwwroot\\Picture\\Asif.jpg",
+      "PackagePath": "staticwebassets\\Picture\\Asif.jpg"
+    },
+    {
       "Id": "D:\\PowerSoftIT\\MyProject\\TaskManagement1\\TaskManagement1\\wwwroot\\Picture\\Asif.png",
       "PackagePath": "staticwebassets\\Picture\\Asif.png"
     },
